@@ -1,0 +1,16 @@
+{
+  "name": "canvas-arrow-path",
+  "version": "0.0.0",
+  "description": "draw arrows along a path",
+  "main": "lib/arrow.js",
+  "author": "David Keijser <keijser@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "README.md",
+    "lib/arrow.js"
+  ],
+  "repository": "https://github.com/keis/canvas-arrow-path.git",
+  "dependencies": {
+    "gl-vec2": "^1.0.0"
+  }
+}
