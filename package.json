@@ -1,6 +1,6 @@
 {
   "name": "canvas-arrow-path",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "draw arrows along a path",
   "main": "lib/arrow.js",
   "author": "David Keijser <keijser@gmail.com>",
