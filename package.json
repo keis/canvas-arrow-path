@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "draw arrows along a path",
   "main": "lib/arrow.js",
+  "scripts": {
+    "start": "webpack-dev-server example.js"
+  },
   "author": "David Keijser <keijser@gmail.com>",
   "license": "MIT",
   "files": [
@@ -12,5 +15,9 @@
   "repository": "https://github.com/keis/canvas-arrow-path.git",
   "dependencies": {
     "gl-vec2": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.10.5",
+    "webpack-dev-server": "^1.10.1"
   }
 }
